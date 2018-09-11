@@ -1,6 +1,6 @@
 package main
 
-import "github.com/subfuzion/envtpl/cmd"
+import "github.com/odenio/envtpl/cmd"
 
 func main() {
 	cmd.Execute()
