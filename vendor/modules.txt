@@ -43,4 +43,3 @@ golang.org/x/crypto/bcrypt
 golang.org/x/crypto/blowfish
 golang.org/x/crypto/pbkdf2
 golang.org/x/crypto/scrypt
-# github.com/Masterminds/sprig v2.17.1+incompatible => github.com/Masterminds/sprig/v3 v3.2.2

@@ -1,4 +1,4 @@
-module github.com/subfuzion/envtpl
+module github.com/odenio/envtpl
 
 go 1.17
 
@@ -21,5 +21,3 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
 )
-
-replace github.com/Masterminds/sprig v2.17.1+incompatible => github.com/Masterminds/sprig/v3 v3.2.2
